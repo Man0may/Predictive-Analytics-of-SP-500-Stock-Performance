@@ -1,13 +1,13 @@
 # Predictive-Analytics-of-S&P-500-Stock-Performance
 Machine learning predictive stock analysis.
-📈 Predictive Analytics of S&P 500 Stock Performance
+Predictive Analytics of S&P 500 Stock Performance
 
 This project explores whether historical market data can be used to predict future stock performance within the S&P 500 using machine learning and data analysis techniques. Working as a group, we analyzed trends, engineered features, and evaluated predictive models against real market outcomes.
 
-🔗 Live Project Website:
+Live Project Website:
 https://aidanthepro.github.io/
 
-## 🧠 Project Overview
+## Project Overview
 
 The goal of this project was to:
 
@@ -21,7 +21,7 @@ The goal of this project was to:
 
 This project emphasizes end-to-end data science, from raw data exploration to model evaluation and interpretation.
 
-## 🔍 Key Features
+## Key Features
 
 - Data cleaning and preprocessing of large financial datasets
 
@@ -45,7 +45,7 @@ This project emphasizes end-to-end data science, from raw data exploration to mo
 
 - Clear visualizations and explanations for interpretability
 
-## 🛠️ Tools & Technologies
+## Technologies
 
 - Python
 
@@ -59,7 +59,7 @@ This project emphasizes end-to-end data science, from raw data exploration to mo
 
 - GitHub Pages (for project presentation)
 
-## 📊 Results & Insights
+## Results
 
 - Machine learning models showed varying success depending on market conditions
 
